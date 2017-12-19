@@ -1,0 +1,54 @@
+body{
+    box-sizing:border-box;
+    margin:0;
+    padding:0;
+}
+
+.wraper{
+    margin-top: 20px;
+}
+
+.wraper1{
+    background:grey;
+    width: 150px;
+    margin-left:auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.number1{float: left;
+    width: 150px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.number2{
+    width: 150px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+input[type="text"]{
+    width: 140px;
+    border:0px;
+    margin-bottom: 10px;
+    padding-left: 2px;
+    
+}
+
+button{
+    width: 25%;
+    margin: 2px;
+}
+
+#dupa{
+    margin-top:200px;
+}
+
+#ekran{
+    margin-top: 5px;
+}
+
+#btnSum{
+    width: 85%;
+    margin-bottom: 20px;
+}
